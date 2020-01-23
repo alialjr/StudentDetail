@@ -8,6 +8,7 @@ package firsttimeexample;
 /**
  *
  * @author Ali
+ date 23.01.2020
  */
 public class FirstTimeExample {
 
@@ -16,6 +17,7 @@ public class FirstTimeExample {
      */
     public static void main(String[] args) {
        System.out.println("Learning Github");
+       System.out.println("Pull"); 
     }
     
 }
