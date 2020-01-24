@@ -20,7 +20,12 @@ public class FirstTimeExample {
        System.out.println("Pull"); 
       System.out.println("Pull Again");
        System.out.println("Pull Again 2");
-      
+       System.out.println("Pull Again");
+       System.out.println("Pull Again 2");
+        System.out.println("Pull Again");
+       System.out.println("Pull Again 2");
+        System.out.println("Pull Again");
+       System.out.println("Pull Again 2");
     
     }
     
