@@ -8,7 +8,7 @@ package firsttimeexample;
 /**
  *
  * @author Ali
- date 23.01.2020
+ date 23.01.2020 
  */
 public class FirstTimeExample {
 
@@ -20,8 +20,8 @@ public class FirstTimeExample {
        System.out.println("Pull"); 
       System.out.println("Pull Again");
        System.out.println("Pull Again 2");
-         System.out.println("Pull Again 3");
-       System.out.println("Pull Again 4");
+      
+    
     }
     
 }
